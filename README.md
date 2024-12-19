@@ -1,3 +1,3 @@
 # githubTest #
 
-I am learning about *GitHub*. It is a nice tool
+I am learning about *GitHub*. It is a nice tool. This text is in *bold*. This one is in _italic_.
